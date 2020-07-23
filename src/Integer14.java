@@ -1,4 +1,4 @@
-public class Integer13 {
+public class Integer14 {
     public static void main(String[] args) {
         int a, b, c, d;
         a = 234;
